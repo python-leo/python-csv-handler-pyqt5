@@ -1,0 +1,38 @@
+,D65-Cap_summary,CWF-Cap_summary,,
+
+awb_error,0.012,0.024
+awb_error,0.010,0.026
+awb_error,0.015,0.037
+awb_error,0.028,0.072
+awb_error,0.013,0.085
+awb_error,0.234,0.256
+
+,D65-Cap_summary,CWF-Cap_summary,,
+
+SNR_result: ,37.9,38.8
+
+,D65-Cap_summary,CWF-Cap_summary,,
+
+exposure_error,0.18,0.14
+
+,R,G,B,Y
+
+Average_noise : D65-Cap_summary,1.03,1.01,1.01,1.01
+Average_noise : CWF-Cap_summary,0.98,0.97,0.98,0.96
+
+
+
+,D65-Cap_summary,CWF-Cap_summary,,
+
+Saturation,119.3,124.4
+Delta-C mean corr,4.9,8.34
+Delta-C max corr,11.3,18.8
+Delta-C mean uncorr,7.76,12
+Delta-E max uncorr,21.8,29.4
+Delta-E mean uncorr,10.6,16.6
+Delta-E max uncorr,21.8,29.4
+
+,Max,Min,Range,Step num
+
+"stepchart ( num, max, min, range )",253.9,36.7,217.2,15
+

@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="12d0ea40-be20-423a-968b-3f5b5d68d212" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="QtWidgets.pyi" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Anaconda2/envs/tensorflow/Lib/site-packages/PyQt5/QtWidgets.pyi">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="104" column="64" lean-forward="false" selection-start-line="104" selection-start-column="64" selection-end-line="104" selection-end-column="64" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QtGui.pyi" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Anaconda2/envs/tensorflow/Lib/site-packages/PyQt5/QtGui.pyi">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="29762">
+              <caret line="1300" column="21" lean-forward="false" selection-start-line="1300" selection-start-column="21" selection-end-line="1300" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="camera_proc_csv.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/camera_proc_csv.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="217">
+              <caret line="393" column="73" lean-forward="false" selection-start-line="393" selection-start-column="73" selection-end-line="393" selection-end-column="73" />
+              <folding>
+                <element signature="e#47#57#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_csv.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/1868806385/_csv.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1150">
+              <caret line="101" column="43" lean-forward="false" selection-start-line="101" selection-start-column="36" selection-end-line="101" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="csv.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Anaconda2/envs/tensorflow/Lib/csv.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4793">
+              <caret line="413" column="32" lean-forward="false" selection-start-line="413" selection-start-column="24" selection-end-line="413" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="builtins.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/1868806385/builtins.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="719" column="6" lean-forward="false" selection-start-line="719" selection-start-column="6" selection-end-line="719" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QtCore.pyi" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Anaconda2/envs/tensorflow/Lib/site-packages/PyQt5/QtCore.pyi">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6325">
+              <caret line="279" column="12" lean-forward="false" selection-start-line="279" selection-start-column="7" selection-end-line="279" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gui_result_dialog.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gui_result_dialog.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2791">
+              <caret line="127" column="43" lean-forward="true" selection-start-line="127" selection-start-column="43" selection-end-line="127" selection-end-column="43" />
+              <folding>
+                <element signature="e#202#212#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gui_camera_csv_dialog.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gui_camera_csv_dialog.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="454">
+              <caret line="595" column="0" lean-forward="true" selection-start-line="595" selection-start-column="0" selection-end-line="595" selection-end-column="0" />
+              <folding>
+                <element signature="e#292#302#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>SNR_result</find>
+      <find>colume</find>
+      <find>file_name_del_ext</find>
+      <find>_summary</find>
+      <find>left_title</find>
+      <find>noise_result</find>
+      <find>process_csv_data</find>
+      <find>color_file_cnt</find>
+      <find>filedialog</find>
+      <find>result_csv_file</find>
+      <find>last_work_dir</find>
+      <find>getOpenFileName</find>
+      <find>find</find>
+      <find>row[3].rfind</find>
+      <find>RED</find>
+      <find>open_result_csv_button_pressed</find>
+      <find>family</find>
+      <find>Ui_Dialog_CSV_Data_Result</find>
+      <find>总共添加</find>
+      <find>focus</find>
+      <find>glo</find>
+      <find>DialogCode</find>
+      <find>result_dialog</find>
+      <find>test_result_dlg</find>
+      <find>modal</find>
+      <find>setFontPointSize</find>
+      <find>setFont</find>
+      <find>reader</find>
+      <find>textEdit_3</find>
+      <find>read_stepchart_result</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>QPushButton</replace>
+      <replace>snr_result</replace>
+      <replace>column</replace>
+      <replace>总共：添加</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/camera_csv_main_gui.py" />
+        <option value="$PROJECT_DIR$/camera_proc_csv.py" />
+        <option value="$PROJECT_DIR$/gui_result_dialog.py" />
+        <option value="$PROJECT_DIR$/gui_camera_csv_dialog.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="686" />
+    <option name="y" value="48" />
+    <option name="width" value="1171" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Camera_CSV_Process" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Camera_CSV_Process" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Camera_CSV_Process" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Camera_CSV_Process" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Anaconda2/envs/Python-35/Library/bin/designer.exe" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="Camera_CSV_Process" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="Camera_CSV_Process" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.gui_camera_csv_dialog">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Leo-Camera-Software\common-useful\Python-Learn\PycharmProjects\Camera_CSV_Process\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Camera_CSV_Process" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="camera_csv_main_gui" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Camera_CSV_Process" />
+      <option name="SCRIPT_NAME" value="D:\Leo-Camera-Software\common-useful\Python-Learn\PycharmProjects\Camera_CSV_Process\gui_camera_csv_dialog.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <method>
+        <option name="ToolBeforeRunTask" enabled="false" actionId="Tool_External Tools_QTDesigner" />
+      </method>
+    </configuration>
+    <configuration name="camera_proc_csv" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Leo-Camera-Software\common-useful\Python-Learn\PycharmProjects\Camera_CSV_Process\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Camera_CSV_Process" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/camera_proc_csv.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="gui_camera_csv_dialog" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Leo-Camera-Software\common-useful\Python-Learn\PycharmProjects\Camera_CSV_Process\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Camera_CSV_Process" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gui_camera_csv_dialog.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="gui_result_dialog" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Leo-Camera-Software\common-useful\Python-Learn\PycharmProjects\Camera_CSV_Process\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Camera_CSV_Process" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gui_result_dialog.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Python.camera_csv_main_gui" />
+      <item index="1" class="java.lang.String" itemvalue="Python.gui_camera_csv_dialog" />
+      <item index="2" class="java.lang.String" itemvalue="Python.gui_result_dialog" />
+      <item index="3" class="java.lang.String" itemvalue="Python.camera_proc_csv" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.gui_camera_csv_dialog" />
+        <item index="1" class="java.lang.String" itemvalue="Python.gui_result_dialog" />
+        <item index="2" class="java.lang.String" itemvalue="Python.camera_proc_csv" />
+        <item index="3" class="java.lang.String" itemvalue="Python.camera_csv_main_gui" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12d0ea40-be20-423a-968b-3f5b5d68d212" name="Default" comment="" />
+      <created>1526028759234</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526028759234</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="R Packages" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="R Graphics" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3993644" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32944915" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3993644" sideWeight="0.49791667" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Anaconda2/envs/tensorflow/Lib/site-packages/PyQt5/QtWidgets.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2392">
+          <caret line="104" column="64" lean-forward="false" selection-start-line="104" selection-start-column="64" selection-end-line="104" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda2/envs/tensorflow/Lib/site-packages/PyQt5/QtGui.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29900">
+          <caret line="1300" column="21" lean-forward="true" selection-start-line="1300" selection-start-column="21" selection-end-line="1300" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera_proc_csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11477">
+          <caret line="499" column="76" lean-forward="false" selection-start-line="499" selection-start-column="59" selection-end-line="499" selection-end-column="78" />
+          <folding>
+            <element signature="e#47#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/1868806385/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16537">
+          <caret line="719" column="6" lean-forward="false" selection-start-line="719" selection-start-column="6" selection-end-line="719" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda2/envs/tensorflow/Lib/site-packages/PyQt5/QtCore.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6417">
+          <caret line="279" column="12" lean-forward="false" selection-start-line="279" selection-start-column="7" selection-end-line="279" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gui_result_dialog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1610">
+          <caret line="70" column="54" lean-forward="true" selection-start-line="70" selection-start-column="54" selection-end-line="70" selection-end-column="54" />
+          <folding>
+            <element signature="e#202#212#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gui_camera_csv_dialog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6486">
+          <caret line="282" column="55" lean-forward="false" selection-start-line="282" selection-start-column="48" selection-end-line="282" selection-end-column="55" />
+          <folding>
+            <element signature="e#292#302#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gui_camera_csv_dialog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#292#302#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda2/envs/tensorflow/Lib/site-packages/PyQt5/QtWidgets.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73508">
+          <caret line="3196" column="23" lean-forward="false" selection-start-line="3196" selection-start-column="4" selection-end-line="3196" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gui_result_dialog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1104">
+          <caret line="48" column="25" lean-forward="true" selection-start-line="48" selection-start-column="25" selection-end-line="48" selection-end-column="25" />
+          <folding>
+            <element signature="e#202#212#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gui_camera_csv_dialog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#292#302#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda2/envs/tensorflow/Lib/site-packages/PyQt5/QtCore.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6325">
+          <caret line="279" column="12" lean-forward="false" selection-start-line="279" selection-start-column="7" selection-end-line="279" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda2/envs/tensorflow/Lib/site-packages/PyQt5/QtGui.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29762">
+          <caret line="1300" column="21" lean-forward="false" selection-start-line="1300" selection-start-column="21" selection-end-line="1300" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/1868806385/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="719" column="6" lean-forward="false" selection-start-line="719" selection-start-column="6" selection-end-line="719" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda2/envs/tensorflow/Lib/site-packages/PyQt5/QtWidgets.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="104" column="64" lean-forward="false" selection-start-line="104" selection-start-column="64" selection-end-line="104" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/1868806385/_csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1150">
+          <caret line="101" column="43" lean-forward="false" selection-start-line="101" selection-start-column="36" selection-end-line="101" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda2/envs/tensorflow/Lib/csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4793">
+          <caret line="413" column="32" lean-forward="false" selection-start-line="413" selection-start-column="24" selection-end-line="413" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera_proc_csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="393" column="73" lean-forward="false" selection-start-line="393" selection-start-column="73" selection-end-line="393" selection-end-column="73" />
+          <folding>
+            <element signature="e#47#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gui_result_dialog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2791">
+          <caret line="127" column="43" lean-forward="true" selection-start-line="127" selection-start-column="43" selection-end-line="127" selection-end-column="43" />
+          <folding>
+            <element signature="e#202#212#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gui_camera_csv_dialog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="595" column="0" lean-forward="true" selection-start-line="595" selection-start-column="0" selection-end-line="595" selection-end-column="0" />
+          <folding>
+            <element signature="e#292#302#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

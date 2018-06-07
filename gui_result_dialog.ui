@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Dialog_CSV_Data_Result</class>
+ <widget class="QDialog" name="Dialog_CSV_Data_Result">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>470</width>
+    <height>557</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>CSV数据处理结果</string>
+  </property>
+  <widget class="QTextEdit" name="textEdit_color_test_result">
+   <property name="geometry">
+    <rect>
+     <x>60</x>
+     <y>50</y>
+     <width>341</width>
+     <height>61</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_open_csv_result_file">
+   <property name="geometry">
+    <rect>
+     <x>60</x>
+     <y>410</y>
+     <width>341</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>打开CSV结果文件</string>
+   </property>
+  </widget>
+  <widget class="QTextEdit" name="textEdit_2_step_test_result">
+   <property name="geometry">
+    <rect>
+     <x>60</x>
+     <y>150</y>
+     <width>341</width>
+     <height>61</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QTextEdit" name="textEdit_3_shading_test_result">
+   <property name="geometry">
+    <rect>
+     <x>60</x>
+     <y>250</y>
+     <width>341</width>
+     <height>61</height>
+    </rect>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
