@@ -1,0 +1,44 @@
+result file : ,C:\Users\linchao\.spyder\Shading-Setting-0.8-Ratio-32\Results\result.csv
+
+,D65-Cap,CWF-Cap,TL84-Cap,A-Cap,,,,
+
+awb error result,0.012,0.024,0.016,0.104
+awb error result,0.010,0.026,0.015,0.114
+awb error result,0.015,0.037,0.029,0.163
+awb error result,0.028,0.072,0.051,0.254
+awb error result,0.013,0.085,0.073,0.379
+awb error result,0.234,0.256,0.523,0.592
+
+,D65-Cap,CWF-Cap,TL84-Cap,A-Cap,,,,
+
+SNR result: ,37.9,38.8,38.7,39.8
+
+,D65-Cap,CWF-Cap,TL84-Cap,A-Cap,,,,
+
+exposure_error,0.18,0.14,0.23,-0.20
+
+,R,G,B,Y
+
+Avg_noise : D65-Cap,1.03,1.01,1.01,1.01
+Avg_noise : CWF-Cap,0.98,0.97,0.98,0.96
+Avg_noise : TL84-Cap,0.91,0.90,0.92,0.89
+Avg_noise : A-Cap,0.90,0.88,0.91,0.88
+
+,D65-Cap,CWF-Cap,TL84-Cap,A-Cap,,,,
+
+Saturation,119.3,124.4,127.1,117
+Delta-C mean corr,4.9,8.34,7.25,9.22
+Delta-C max corr,11.3,18.8,18.2,18.2
+Delta-C mean uncorr,7.76,12,11.7,11
+Delta-E max uncorr,21.8,29.4,35,24.5
+Delta-E mean uncorr,10.6,16.6,17,13.5
+Delta-E max uncorr,21.8,29.4,35,24.5
+
+,Lens Shading,Color Shading
+
+lens_shading mean,94.5%,98.4%
+
+,Max,Min,Range,Step num
+
+"stepchart ( max, min, range, num )",253.9,36.7,217.2,15
+
